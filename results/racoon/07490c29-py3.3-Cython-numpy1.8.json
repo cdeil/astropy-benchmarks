@@ -1,0 +1,36 @@
+{
+    "commit_hash": "07490c29a8a083a83a00c73085fd4145195815b2", 
+    "date": 1399401243000, 
+    "params": {
+        "Cython": null, 
+        "arch": "x86_64", 
+        "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+        "machine": "racoon", 
+        "numpy": "1.8", 
+        "os": "Mac OS-X 10.9 Mavericks", 
+        "python": "3.3", 
+        "ram": "8GB"
+    }, 
+    "profiles": {}, 
+    "python": "3.3", 
+    "requirements": {
+        "Cython": null, 
+        "numpy": "1.8"
+    }, 
+    "results": {
+        "time_coordinates.time_latitude": 7.66985e-05, 
+        "time_quantity.time_quantity_array_conversion": 0.000450912, 
+        "time_quantity.time_quantity_init_array": 0.0003041340000000001, 
+        "time_quantity.time_quantity_init_scalar": 8.148150000000002e-05, 
+        "time_quantity.time_quantity_scalar_conversion": 0.0001660545, 
+        "time_quantity.time_quantity_ufunc_sin": 0.00038305999999999995, 
+        "time_units.mem_unit": 552, 
+        "time_units.time_compose_to_bases": 0.0029467600000000014, 
+        "time_units.time_simple_unit_parse": 0.00013318090000000006, 
+        "time_units.time_unit_compose": 0.0005387519999999999, 
+        "time_units.time_unit_parse": 0.00044698300000000013, 
+        "time_units.time_unit_to": 5.082749999999998e-06, 
+        "time_units.time_very_simple_unit_parse": 1.3172970000000002e-05
+    }, 
+    "version": 1
+}
